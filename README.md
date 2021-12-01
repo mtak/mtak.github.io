@@ -2,6 +2,7 @@
 
 Links:
 
+ - [GitHub profile](https://github.com/mtak/)
  - [tak.io](https://tak.io/)
  - [mtak.nl](https://mtak.nl/)
 
